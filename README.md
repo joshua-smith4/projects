@@ -1,0 +1,1 @@
+The files found in this directory are some examples of code that I have written and/or collaborated in. Enjoy!
